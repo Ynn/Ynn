@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am a <a href="https://tab.4x.re"><img src="https://img.shields.io/badge/Supreme_ArchTabulator-TheHolyOrderOfTab-red?style=plastic&logoColor=rgb(236%2C%20234%2C%20229)"></a>
+I am a member of **The Holy Order of <kbd>Tab</kbd>**
+
+<a href="https://tab.4x.re"><img src="https://img.shields.io/badge/Supreme_ArchTabulator-TheHolyOrderOfTab-red?style=plastic&logoColor=rgb(236%2C%20234%2C%20229)"></a>
 
 
 <!--
